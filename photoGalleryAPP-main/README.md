@@ -1,5 +1,5 @@
 
-# GALLERY CRUD APP 🙌
+# GALLERY CRUD APP 
 
 As asked in the question the gallery crud MERN app is made fulfulling
 all the requirements of entry, immediate and pro level.
@@ -17,9 +17,9 @@ Hosted on: Heroku
 
 # LINKS
 
-Hosted Link : https://photogallerypg-mern.herokuapp.com/
+Deployed Link : https://crudgalleryapp.herokuapp.com/
 
-GitHUb Repo Link : https://github.com/gautam351/photoGalleryAPP
+GitHUb Repo Link : https://github.com/RoshanKrSharma/gallery-curd-app
 
 
 
